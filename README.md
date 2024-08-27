@@ -9,5 +9,7 @@ Features:
   - Selection of the required files to extract from a compressed file (e.g. decompression of only JPG files)
 
 
+
+
   ![Screenshot 2024-08-26 214416](https://github.com/user-attachments/assets/bbb02c2c-8192-4a4a-979c-e753ea233546)
 
