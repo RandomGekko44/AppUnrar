@@ -2,6 +2,7 @@
 Decompression tool with support for RAR, ZIP and 7zip files.
 
 Features:
+  - UI
   - Selection of multiple files for decompression.
   - Support for the lastest versions of RAR, ZIP and 7zip compression.
   - Support for encrypted files.
